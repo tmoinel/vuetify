@@ -1,3 +1,6 @@
+// Styles
+import './VThemeProvider.sass'
+
 // Utilities
 import { defineComponent, h } from 'vue'
 import { provideTheme } from '@/composables'
